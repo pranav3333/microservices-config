@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to HsbcBank accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@hsbcbank.com"
+    email: "{cipher}d7795f1d867793107e7bb51ff5dac38b673834d10b70fd97b7b99b61eff07851cb0c51ab4c0e7b6dae62aed5d0dc6d5c"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
