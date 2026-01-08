@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to HsbcBank loans related Prod APIs "
+  message: "Welcome to HsbcBank loans related Production APIs "
   contactDetails:
     name: "Cyrano Marita - QA Lead"
     email: "cyrano@hsbcbank.com"
