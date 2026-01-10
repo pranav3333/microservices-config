@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to HsbcBank accounts related Production APIs "
+  message: "Welcome to HsbcBank accounts related Prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}d7795f1d867793107e7bb51ff5dac38b673834d10b70fd97b7b99b61eff07851cb0c51ab4c0e7b6dae62aed5d0dc6d5c"
